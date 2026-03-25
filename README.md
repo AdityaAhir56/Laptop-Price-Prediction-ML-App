@@ -114,7 +114,8 @@ The project includes a fully interactive Streamlit app for real-time predictions
 
 ## 🌐 Live Demo
 
-👉 *(Add your Streamlit deployment link here)*  
+🚀 Try the app here:
+👉 https://laptop-price-prediction-ml-app-mqxcvvbdrfnpbdk6rahret.streamlit.app/ 
 
 ---
 
